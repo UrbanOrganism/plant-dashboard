@@ -1038,5 +1038,31 @@
     "culinary_subcategory": "Olievruchten",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Witte spruitbloemkool",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Spanje",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-16",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bloemen & Knoppen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Paarse spruitbloemkool",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Spanje",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-16",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bloemen & Knoppen",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
