@@ -7,10 +7,10 @@
     "purchase_location": "Koopman",
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-02",
-    "culinary_category": null,
-    "culinary_subcategory": null,
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Zaden & Pitten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad"
   },
   {
     "name": "Zonnebloempitten",
