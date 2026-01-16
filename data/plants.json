@@ -1030,7 +1030,7 @@
     "name": "Olijf",
     "variety": "Kalamata",
     "preparation": "Ingelegd",
-    "origin_country": null,
+    "origin_country": "Turkije",
     "purchase_location": "Sahan",
     "purchase_location_cat": "Toko",
     "date": "2026-01-16",
@@ -1062,6 +1062,32 @@
     "date": "2026-01-16",
     "culinary_category": "Groente",
     "culinary_subcategory": "Bloemen & Knoppen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Groene olijf",
+    "variety": null,
+    "preparation": "Ingelegd",
+    "origin_country": "Turkije",
+    "purchase_location": "Sahan",
+    "purchase_location_cat": "Toko",
+    "date": "2026-01-16",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Olievruchten",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Zwarte olijf",
+    "variety": null,
+    "preparation": "Ingelegd",
+    "origin_country": "Turkije",
+    "purchase_location": "Sahan",
+    "purchase_location_cat": "Toko",
+    "date": "2026-01-16",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Olievruchten",
     "botanical_category": null,
     "botanical_part": null
   }
