@@ -1129,5 +1129,18 @@
     "culinary_subcategory": "Bessen",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Bloedmandarijn",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Italië",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteboer",
+    "date": "2026-01-17",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Citrusfruit",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
