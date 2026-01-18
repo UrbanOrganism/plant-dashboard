@@ -1155,5 +1155,70 @@
     "culinary_subcategory": "Pitfruit",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Zoete aardappel",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Jeroen",
+    "purchase_location_cat": "Vrienden & Familie",
+    "date": "2026-01-18",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Koriander",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Marokko",
+    "purchase_location": "Jeroen",
+    "purchase_location_cat": "Vrienden & Familie",
+    "date": "2026-01-18",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Limoen",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Jeroen",
+    "purchase_location_cat": "Vrienden & Familie",
+    "date": "2026-01-18",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Citrusfruit",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Gember",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Jeroen",
+    "purchase_location_cat": "Vrienden & Familie",
+    "date": "2026-01-18",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Minneola",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Israël",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteman",
+    "date": "2026-01-18",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Citrusfruit",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
