@@ -1142,5 +1142,18 @@
     "culinary_subcategory": "Citrusfruit",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Chinapeer",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "China",
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-01-18",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Pitfruit",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
