@@ -1246,5 +1246,18 @@
     "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Radijs",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteman",
+    "date": "2026-01-19",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
