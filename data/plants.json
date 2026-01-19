@@ -718,7 +718,7 @@
     "name": "Boerenkool",
     "variety": null,
     "preparation": "Gekookt",
-    "origin_country": null,
+    "origin_country": "Nederland",
     "purchase_location": "Koopman",
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-11",
@@ -1218,6 +1218,32 @@
     "date": "2026-01-18",
     "culinary_category": "Fruit",
     "culinary_subcategory": "Citrusfruit",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Cashewnoot",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-19",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Noten",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Çarliston peper",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Turkije",
+    "purchase_location": "Sahan",
+    "purchase_location_cat": "Toko",
+    "date": "2026-01-19",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": null,
     "botanical_part": null
   }
