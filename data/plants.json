@@ -1259,5 +1259,57 @@
     "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Bruine basmatirijst",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "India",
+    "purchase_location": "Picnic",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-19",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Granen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Chinese kool",
+    "variety": null,
+    "preparation": "Gestoomd",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteboer",
+    "date": "2026-01-19",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bladgroenten",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Sesamzaad",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-01-19",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Zaden & Pitten",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Kaki",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteboer",
+    "date": "2026-01-19",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
