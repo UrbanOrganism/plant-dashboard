@@ -1311,5 +1311,83 @@
     "culinary_subcategory": "Bessen",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Rode biet",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteboer",
+    "date": "2026-01-20",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Gele biet",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteboer",
+    "date": "2026-01-20",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Chioggia biet",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteboer",
+    "date": "2026-01-20",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Rammenas",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteboer",
+    "date": "2026-01-20",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Kurkuma",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteboer",
+    "date": "2026-01-20",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Witte kool",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groenteboer",
+    "date": "2026-01-20",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bladgroenten",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
