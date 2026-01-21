@@ -1506,5 +1506,44 @@
     "culinary_subcategory": "Granen",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Gele pitahaya",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Ecuador",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-21",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Kumquat",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Spanje",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-21",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Citrusfruit",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Cactusvijg",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Sahan",
+    "purchase_location_cat": "Toko",
+    "date": "2026-01-21",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
