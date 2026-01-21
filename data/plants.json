@@ -1428,5 +1428,83 @@
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Macadamia",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-21",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Noten",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Karwijzaad",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-01-21",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Limoenblad",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-01-21",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Korianderzaad",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Tjin’s Toko",
+    "purchase_location_cat": "Toko",
+    "date": "2026-01-21",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Groene kardemom",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Tjin’s Toko",
+    "purchase_location_cat": "Toko",
+    "date": "2026-01-21",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Maïs",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-21",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Granen",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
