@@ -1545,5 +1545,44 @@
     "culinary_subcategory": "Bessen",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Aubergine",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-22",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Tomaat",
+    "variety": "San Marzano",
+    "preparation": "Gekookt",
+    "origin_country": "Spanje",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-22",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Appel",
+    "variety": "Bloss",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-22",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Pitfruit",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
