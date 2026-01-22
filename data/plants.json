@@ -1584,5 +1584,18 @@
     "culinary_subcategory": "Pitfruit",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Mandarijn",
+    "variety": "Tango",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Spanje",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-22",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Citrusfruit",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
