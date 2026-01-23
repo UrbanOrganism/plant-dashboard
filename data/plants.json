@@ -1688,5 +1688,18 @@
     "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Cherimoya",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": null,
+    "purchase_location_cat": null,
+    "date": "2026-01-23",
+    "culinary_category": null,
+    "culinary_subcategory": null,
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
