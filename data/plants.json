@@ -1597,5 +1597,57 @@
     "culinary_subcategory": "Citrusfruit",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Koffie",
+    "variety": "SL-28",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Kenia",
+    "purchase_location": "Friedhats FUKU Café",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-01-23",
+    "culinary_category": "Drugfoods",
+    "culinary_subcategory": "Koffie",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Koffie",
+    "variety": "SL-34",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Kenia",
+    "purchase_location": "Friedhats FUKU Café",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-01-23",
+    "culinary_category": "Drugfoods",
+    "culinary_subcategory": "Koffie",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Koffie",
+    "variety": "Ruiru 11",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Kenia",
+    "purchase_location": "Friedhats FUKU Café",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-01-23",
+    "culinary_category": "Drugfoods",
+    "culinary_subcategory": "Koffie",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Koffie",
+    "variety": "Batian",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Kenia",
+    "purchase_location": "Friedhats FUKU Café",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-01-23",
+    "culinary_category": "Drugfoods",
+    "culinary_subcategory": "Koffie",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
