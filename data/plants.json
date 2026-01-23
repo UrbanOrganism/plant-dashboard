@@ -1701,5 +1701,18 @@
     "culinary_subcategory": "Samengesteld fruit",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Zoete witte ananas",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Benin",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-23",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Samengesteld fruit",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
