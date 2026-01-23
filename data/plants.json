@@ -1703,8 +1703,8 @@
     "botanical_part": null
   },
   {
-    "name": "Zoete witte ananas",
-    "variety": null,
+    "name": "Ananas",
+    "variety": "Pain de Sucre",
     "preparation": "Rauw / Vers",
     "origin_country": "Benin",
     "purchase_location": "Albert Heijn",
@@ -1712,6 +1712,45 @@
     "date": "2026-01-23",
     "culinary_category": "Fruit",
     "culinary_subcategory": "Samengesteld fruit",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Franse berglinzen",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-23",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Linzen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Rucola",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Italië",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-23",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bladgroenten",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Haver",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-23",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Granen",
     "botanical_category": null,
     "botanical_part": null
   }
