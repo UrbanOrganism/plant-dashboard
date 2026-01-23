@@ -1693,12 +1693,12 @@
     "name": "Cherimoya",
     "variety": null,
     "preparation": "Rauw / Vers",
-    "origin_country": null,
-    "purchase_location": null,
-    "purchase_location_cat": null,
+    "origin_country": "Spanje",
+    "purchase_location": "De Marrokaan",
+    "purchase_location_cat": "Toko",
     "date": "2026-01-23",
-    "culinary_category": null,
-    "culinary_subcategory": null,
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Samengesteld fruit",
     "botanical_category": null,
     "botanical_part": null
   }
