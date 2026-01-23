@@ -1675,5 +1675,18 @@
     "culinary_subcategory": "Bladgroenten",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Tamme kastanje",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Frankrijk",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-23",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
