@@ -1560,6 +1560,19 @@
     "botanical_part": null
   },
   {
+    "name": "Kastanjechampignon",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-22",
+    "culinary_category": "Paddenstoelen",
+    "culinary_subcategory": "Paddenstoelen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
     "name": "Tomaat",
     "variety": "San Marzano",
     "preparation": "Gekookt",
