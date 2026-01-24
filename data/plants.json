@@ -1779,5 +1779,70 @@
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Suen sum",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": "China",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-24",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Alliums",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Sperzieboon",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-24",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Bonen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Appel",
+    "variety": "Granny Smith",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Frankrijk",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-24",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Pitfruit",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Rode habanero",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-24",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Pepers / Capsicum",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Papaya",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Brazilië",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-01-24",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
