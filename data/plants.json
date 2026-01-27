@@ -1857,5 +1857,18 @@
     "culinary_subcategory": "Pitfruit",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Kikkererwt",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Thijs",
+    "purchase_location_cat": "Vrienden & Familie",
+    "date": "2026-01-27",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Erwten",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
