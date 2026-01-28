@@ -1870,5 +1870,31 @@
     "culinary_subcategory": "Erwten",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Groene paprika",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Carrefour",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-28",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Veldsla",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Carrefour",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-28",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bladgroenten",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
