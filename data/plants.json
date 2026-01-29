@@ -1896,5 +1896,18 @@
     "culinary_subcategory": "Bladgroenten",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Appel",
+    "variety": "Inored",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Frankrijk",
+    "purchase_location": "Carrefour",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-29",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Pitfruit",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
