@@ -1909,5 +1909,31 @@
     "culinary_subcategory": "Pitfruit",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Appel",
+    "variety": "Opal",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Frankrijk",
+    "purchase_location": "Carrefour",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-29",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Pitfruit",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Peer",
+    "variety": "Conference",
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Carrefour",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-01-29",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Pitfruit",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
