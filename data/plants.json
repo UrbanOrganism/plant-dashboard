@@ -2013,5 +2013,18 @@
     "culinary_subcategory": null,
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Appel",
+    "variety": "Sprank",
+    "preparation": null,
+    "origin_country": null,
+    "purchase_location": null,
+    "purchase_location_cat": null,
+    "date": "2026-02-01",
+    "culinary_category": null,
+    "culinary_subcategory": null,
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
