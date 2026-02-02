@@ -2078,5 +2078,44 @@
     "culinary_subcategory": "Pitfruit",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Platte peterselie",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-02",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Meiraap",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-02",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Pruim",
+    "variety": "Ruby Sun",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Republiek Zuid-Afrika",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-02",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Steenfruit",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
