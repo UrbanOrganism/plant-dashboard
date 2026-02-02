@@ -1945,7 +1945,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": null,
+    "culinary_subcategory": "Bier",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1958,7 +1958,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": null,
+    "culinary_subcategory": "Bier",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1971,7 +1971,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": null,
+    "culinary_subcategory": "Bier",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1984,7 +1984,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": null,
+    "culinary_subcategory": "Bier",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -2010,7 +2010,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-30",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": null,
+    "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -2063,6 +2063,19 @@
     "date": "2026-02-01",
     "culinary_category": "Groente",
     "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Gele honingmeloen",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Brazilië",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-02",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Pitfruit",
     "botanical_category": null,
     "botanical_part": null
   }
