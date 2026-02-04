@@ -2182,5 +2182,44 @@
     "culinary_subcategory": "Pitfruit",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Navelsinaasappel",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Spanje",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-04",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Citrusfruit",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Witte shimeji",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-04",
+    "culinary_category": "Paddenstoelen",
+    "culinary_subcategory": "Paddenstoelen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Bimi",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": "Spanje",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-04",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bloemen & Knoppen",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
