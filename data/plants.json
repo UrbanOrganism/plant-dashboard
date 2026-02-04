@@ -112,7 +112,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-02",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Samengesteld fruit",
+    "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -125,7 +125,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-02",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -138,7 +138,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-02",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -151,7 +151,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-02",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -164,7 +164,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-02",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Olievruchten",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -190,7 +190,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-03",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -385,7 +385,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-05",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -398,7 +398,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-05",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -411,7 +411,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-05",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -476,7 +476,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-07",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -658,7 +658,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-10",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Steenfruit",
+    "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -671,7 +671,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-10",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -684,7 +684,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-10",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Samengesteld fruit",
+    "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -736,7 +736,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-11",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Steenfruit",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -749,7 +749,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-12",
     "culinary_category": "Peulvruchten",
-    "culinary_subcategory": "Peulvruchten",
+    "culinary_subcategory": "Linzen",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -905,7 +905,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-13",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -970,7 +970,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-01-14",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1126,7 +1126,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-17",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1152,7 +1152,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-01-18",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1308,7 +1308,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-19",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1399,7 +1399,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-21",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Koffie",
+    "culinary_subcategory": "Bonen",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1412,7 +1412,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-21",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Koffie",
+    "culinary_subcategory": "Bonen",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1425,7 +1425,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-21",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Koffie",
+    "culinary_subcategory": "Bonen",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1516,7 +1516,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-21",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1542,7 +1542,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-01-21",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1594,7 +1594,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-22",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1711,7 +1711,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-01-23",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Samengesteld fruit",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1724,7 +1724,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-23",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Samengesteld fruit",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1815,7 +1815,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-24",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1841,7 +1841,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-24",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Bessen",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1854,7 +1854,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-27",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1906,7 +1906,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1919,7 +1919,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1932,7 +1932,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -1997,7 +1997,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-30",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -2023,7 +2023,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-01",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -2075,7 +2075,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-02",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -2166,7 +2166,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-03",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -2179,7 +2179,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-03",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Pitfruit",
+    "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": null
   },
@@ -2219,6 +2219,19 @@
     "date": "2026-02-04",
     "culinary_category": "Groente",
     "culinary_subcategory": "Bloemen & Knoppen",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Carambola",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-04",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": null
   }
