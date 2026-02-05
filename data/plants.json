@@ -10,7 +10,7 @@
     "culinary_category": "Zaden, Pitten & Granen",
     "culinary_subcategory": "Zaden & Pitten",
     "botanical_category": null,
-    "botanical_part": "Zaad"
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Zonnebloempit",
@@ -23,7 +23,7 @@
     "culinary_category": "Zaden, Pitten & Granen",
     "culinary_subcategory": "Zaden & Pitten",
     "botanical_category": null,
-    "botanical_part": "Zaad"
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Rode ui",
@@ -36,7 +36,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Alliums",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Kropsla",
@@ -49,7 +49,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Bladgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Blad(steel)"
   },
   {
     "name": "Rode kool",
@@ -62,7 +62,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Bladgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Blad(steel)"
   },
   {
     "name": "Komkommer",
@@ -75,7 +75,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Tomaat",
@@ -88,7 +88,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Jalapeño",
@@ -101,7 +101,7 @@
     "culinary_category": "Kruiden & Specerijen",
     "culinary_subcategory": "Pepers / Capsicum",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Moerbei",
@@ -114,7 +114,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Incabes",
@@ -127,7 +127,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Gojibes",
@@ -140,7 +140,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Appel",
@@ -153,7 +153,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Kokosnoot",
@@ -179,7 +179,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Citrusfruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Passievrucht",
@@ -192,7 +192,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Groene erwt",
@@ -205,7 +205,7 @@
     "culinary_category": "Peulvruchten",
     "culinary_subcategory": "Erwten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Winterpeen",
@@ -218,7 +218,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Knolselderij",
@@ -231,7 +231,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Knoflook",
@@ -244,7 +244,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Alliums",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Prei",
@@ -257,7 +257,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Alliums",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Stengel / Scheut"
   },
   {
     "name": "Aardappel",
@@ -270,7 +270,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Wortelpeterselie",
@@ -283,7 +283,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Pastinaak",
@@ -296,7 +296,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Chinese Kool",
@@ -309,7 +309,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Bladgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Blad(steel)"
   },
   {
     "name": "Amandel",
@@ -322,7 +322,7 @@
     "culinary_category": "Zaden, Pitten & Granen",
     "culinary_subcategory": "Noten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Paranoot",
@@ -335,7 +335,7 @@
     "culinary_category": "Zaden, Pitten & Granen",
     "culinary_subcategory": "Noten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Walnoot",
@@ -348,7 +348,7 @@
     "culinary_category": "Zaden, Pitten & Granen",
     "culinary_subcategory": "Noten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Hazelnoot",
@@ -361,7 +361,7 @@
     "culinary_category": "Zaden, Pitten & Granen",
     "culinary_subcategory": "Noten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Pistachenoot",
@@ -374,7 +374,7 @@
     "culinary_category": "Zaden, Pitten & Granen",
     "culinary_subcategory": "Noten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Blauwe druif",
@@ -387,7 +387,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Witte druif",
@@ -400,7 +400,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Banaan",
@@ -413,7 +413,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Spinazie",
@@ -426,7 +426,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Bladgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Blad(steel)"
   },
   {
     "name": "Paarse spitskool",
@@ -439,7 +439,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Bladgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Blad(steel)"
   },
   {
     "name": "Oesterzwam",
@@ -452,7 +452,7 @@
     "culinary_category": "Paddenstoelen",
     "culinary_subcategory": "Paddenstoelen",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vruchtlichaam"
   },
   {
     "name": "Mandarijn",
@@ -465,7 +465,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Citrusfruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Appel",
@@ -478,7 +478,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Ui",
@@ -491,7 +491,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Alliums",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Rijst",
@@ -504,7 +504,7 @@
     "culinary_category": "Zaden, Pitten & Granen",
     "culinary_subcategory": "Granen",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Gele komkommer",
@@ -517,7 +517,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Augurk",
@@ -530,7 +530,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Venkel",
@@ -543,7 +543,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Stengels & Scheuten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Witlof",
@@ -556,7 +556,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Bladgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Blad(steel)"
   },
   {
     "name": "Wortel",
@@ -569,7 +569,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Rode paprika",
@@ -582,7 +582,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Rode sla",
@@ -595,7 +595,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Bladgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Blad(steel)"
   },
   {
     "name": "Flespompoen",
@@ -608,7 +608,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Avocado",
@@ -621,7 +621,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Olievruchten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Tuinkers",
@@ -634,7 +634,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Kiemen & Spruiten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Kiem / Spruit"
   },
   {
     "name": "Pied de mouton",
@@ -647,7 +647,7 @@
     "culinary_category": "Paddenstoelen",
     "culinary_subcategory": "Paddenstoelen",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vruchtlichaam"
   },
   {
     "name": "Dadel",
@@ -660,7 +660,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Rode kiwi",
@@ -673,7 +673,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Spaanse vijg",
@@ -686,7 +686,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Grapefruit",
@@ -699,7 +699,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Citrusfruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Aardappel",
@@ -2233,6 +2233,32 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Taugé",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-05",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Kiemen & Spruiten",
+    "botanical_category": null,
+    "botanical_part": "Kiem / Spruit"
+  },
+  {
+    "name": "Paarse zoete aardappel",
+    "variety": null,
+    "preparation": "Luchtgebakken",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-05",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
   }
 ]
