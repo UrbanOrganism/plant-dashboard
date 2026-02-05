@@ -2260,5 +2260,31 @@
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Aardappel",
+    "variety": "Frieslander",
+    "preparation": "Gekookt",
+    "origin_country": "Nederland",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-05",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Raapsteel",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Holthuizen",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-05",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Stengels & Scheuten",
+    "botanical_category": "Stengel / Scheut",
+    "botanical_part": "Stengel / Scheut"
   }
 ]
