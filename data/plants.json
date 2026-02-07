@@ -2455,5 +2455,83 @@
     "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": "Vrucht / Peul",
     "botanical_part": null
+  },
+  {
+    "name": "Daikon",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-07",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": "Vrucht / Peul",
+    "botanical_part": null
+  },
+  {
+    "name": "Bosui",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-07",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Alliums",
+    "botanical_category": "Stengel / Scheut",
+    "botanical_part": null
+  },
+  {
+    "name": "Paarse peen",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-07",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": "Wortel / Knol",
+    "botanical_part": null
+  },
+  {
+    "name": "Gele peen",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-07",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": "Wortel / Knol",
+    "botanical_part": null
+  },
+  {
+    "name": "Kiwi",
+    "variety": "Jintao",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Italië",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-07",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Overig fruit",
+    "botanical_category": "Vrucht / Peul",
+    "botanical_part": null
+  },
+  {
+    "name": "Appel",
+    "variety": "Jazz",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Frankrijk",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-07",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Boomgaardfruit",
+    "botanical_category": "Vrucht / Peul",
+    "botanical_part": null
   }
 ]
