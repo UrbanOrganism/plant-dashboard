@@ -2377,5 +2377,70 @@
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": "Wortel / Knol",
     "botanical_part": null
+  },
+  {
+    "name": "Sla",
+    "variety": "Lollo Bionda",
+    "preparation": "Rauw / Vers",
+    "origin_country": "België",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-07",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bladgroenten",
+    "botanical_category": "Blad(steel)",
+    "botanical_part": null
+  },
+  {
+    "name": "Sla",
+    "variety": "Lollo Rossa",
+    "preparation": "Rauw / Vers",
+    "origin_country": "België",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-07",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bladgroenten",
+    "botanical_category": "Blad(steel)",
+    "botanical_part": null
+  },
+  {
+    "name": "Rode eikenbladsla",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "België",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-07",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bladgroenten",
+    "botanical_category": "Blad(steel)",
+    "botanical_part": null
+  },
+  {
+    "name": "Bieslook",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Kenia",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-07",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Alliums",
+    "botanical_category": "Stengel / Scheut",
+    "botanical_part": null
+  },
+  {
+    "name": "Kappertje",
+    "variety": null,
+    "preparation": "Ingelegd",
+    "origin_country": "Marokko",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-07",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bloemen & Knoppen",
+    "botanical_category": "Bloem / Knop",
+    "botanical_part": null
   }
 ]
