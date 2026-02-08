@@ -2533,5 +2533,18 @@
     "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": "Vrucht / Peul",
     "botanical_part": null
+  },
+  {
+    "name": "Tomaat",
+    "variety": "Piccolo",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-08",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": "Vrucht / Peul",
+    "botanical_part": null
   }
 ]
