@@ -2546,5 +2546,70 @@
     "culinary_subcategory": "Vruchtgroenten",
     "botanical_category": "Vrucht / Peul",
     "botanical_part": null
+  },
+  {
+    "name": "Laurierblad",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Jurre",
+    "purchase_location_cat": "Vrienden & Familie",
+    "date": "2026-02-08",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": "Blad(steel)",
+    "botanical_part": null
+  },
+  {
+    "name": "Rode puntpaprika",
+    "variety": null,
+    "preparation": "Luchtgebakken",
+    "origin_country": "Marokko",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-08",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": "Vrucht / Peul",
+    "botanical_part": null
+  },
+  {
+    "name": "Oranje puntpaprika",
+    "variety": null,
+    "preparation": "Luchtgebakken",
+    "origin_country": "Marokko",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-08",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": "Vrucht / Peul",
+    "botanical_part": null
+  },
+  {
+    "name": "Gele puntpaprika",
+    "variety": null,
+    "preparation": "Luchtgebakken",
+    "origin_country": "Marokko",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-08",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": "Vrucht / Peul",
+    "botanical_part": null
+  },
+  {
+    "name": "Pinda",
+    "variety": null,
+    "preparation": "Luchtgebakken",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-08",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Noten",
+    "botanical_category": "Zaad / Graan",
+    "botanical_part": null
   }
 ]
