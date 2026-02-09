@@ -2616,13 +2616,13 @@
     "name": "Thee",
     "variety": "Shui Jin Gui",
     "preparation": "Geïnfuseerd",
-    "origin_country": null,
-    "purchase_location": null,
-    "purchase_location_cat": null,
+    "origin_country": "China",
+    "purchase_location": "Wuyi Origin",
+    "purchase_location_cat": "Speciaalzaak",
     "date": "2026-02-09",
-    "culinary_category": null,
-    "culinary_subcategory": null,
-    "botanical_category": null,
+    "culinary_category": "Drugfoods",
+    "culinary_subcategory": "Thee",
+    "botanical_category": "Blad(steel)",
     "botanical_part": null
   }
 ]
