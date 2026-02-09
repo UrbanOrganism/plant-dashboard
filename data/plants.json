@@ -2611,5 +2611,18 @@
     "culinary_subcategory": "Noten",
     "botanical_category": "Zaad / Graan",
     "botanical_part": null
+  },
+  {
+    "name": "Thee",
+    "variety": "Shui Jin Gui",
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": null,
+    "purchase_location_cat": null,
+    "date": "2026-02-09",
+    "culinary_category": null,
+    "culinary_subcategory": null,
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
