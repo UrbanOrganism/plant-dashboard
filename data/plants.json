@@ -2624,5 +2624,44 @@
     "culinary_subcategory": "Thee",
     "botanical_category": "Blad(steel)",
     "botanical_part": null
+  },
+  {
+    "name": "Citroen",
+    "variety": "Interdonato",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Italië",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-09",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Citrusfruit",
+    "botanical_category": "Vrucht / Peul",
+    "botanical_part": null
+  },
+  {
+    "name": "Pijnboompit",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Volksrepubliek China",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-09",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Zaden & Pitten",
+    "botanical_category": "Zaad / Graan",
+    "botanical_part": null
+  },
+  {
+    "name": "Aardappel",
+    "variety": "Levante",
+    "preparation": "Gekookt",
+    "origin_country": "Nederland",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-09",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": "Wortel / Knol",
+    "botanical_part": null
   }
 ]
