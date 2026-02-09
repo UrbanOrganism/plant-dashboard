@@ -2663,5 +2663,18 @@
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": "Wortel / Knol",
     "botanical_part": null
+  },
+  {
+    "name": "Bloemkool",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Nederland",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-09",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bloemen & Knoppen",
+    "botanical_category": "Bloem / Knop",
+    "botanical_part": null
   }
 ]
