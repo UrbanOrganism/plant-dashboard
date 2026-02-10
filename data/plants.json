@@ -663,8 +663,8 @@
     "botanical_part": "Vrucht / Peul"
   },
   {
-    "name": "Rode kiwi",
-    "variety": null,
+    "name": "Kiwi",
+    "variety": "Oriental Red",
     "preparation": "Rauw / Vers",
     "origin_country": "Italië",
     "purchase_location": "Koopman",
@@ -2702,5 +2702,44 @@
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Schorseneer",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-10",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Aardappel",
+    "variety": "Twister",
+    "preparation": "Gekookt",
+    "origin_country": "Nederland",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-10",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Aalbes",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-10",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen & Druiven",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
