@@ -2465,9 +2465,9 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-07",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": null,
-    "botanical_part": "Vrucht / Peul"
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Bosui",
@@ -2683,11 +2683,24 @@
     "preparation": "Rauw / Vers",
     "origin_country": "Nederland",
     "purchase_location": "Mick",
-    "purchase_location_cat": "Eigen kweek",
+    "purchase_location_cat": "Zelfgemaakt",
     "date": "2026-02-10",
     "culinary_category": "Groente",
     "culinary_subcategory": "Kiemen & Spruiten",
     "botanical_category": null,
     "botanical_part": "Kiem / Spruit"
+  },
+  {
+    "name": "Daikon",
+    "variety": null,
+    "preparation": "Gefermenteerd",
+    "origin_country": null,
+    "purchase_location": "Mick",
+    "purchase_location_cat": "Zelfgemaakt",
+    "date": "2026-02-10",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
   }
 ]
