@@ -2741,5 +2741,18 @@
     "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Durumtarwe",
+    "variety": null,
+    "preparation": null,
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-11",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Granen",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
   }
 ]
