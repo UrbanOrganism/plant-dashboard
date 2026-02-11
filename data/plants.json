@@ -2767,5 +2767,18 @@
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Rapini",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Romeo’s",
+    "purchase_location_cat": "Afhaal",
+    "date": "2026-02-11",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Bladgroenten",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
