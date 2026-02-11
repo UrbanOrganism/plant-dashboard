@@ -2754,5 +2754,18 @@
     "culinary_subcategory": "Granen",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Thee",
+    "variety": "Kyôken-283",
+    "preparation": "Gedroogd",
+    "origin_country": "Japan",
+    "purchase_location": "Thés du Japon",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-02-11",
+    "culinary_category": "Drugfoods",
+    "culinary_subcategory": "Thee",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
