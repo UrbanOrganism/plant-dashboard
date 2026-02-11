@@ -2806,5 +2806,57 @@
     "culinary_subcategory": "Knollen & Wortels",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Haricots verts",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Senegal",
+    "purchase_location": "Jumbo",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-11",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Mosterdzaad",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Mabrouk",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-11",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Kerrieblad",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Mabrouk",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-11",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Framboos",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Picnic",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-11",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen & Druiven",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
