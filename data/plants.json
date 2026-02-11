@@ -2780,5 +2780,31 @@
     "culinary_subcategory": "Bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Bosui",
+    "variety": null,
+    "preparation": "Gefermenteerd",
+    "origin_country": null,
+    "purchase_location": "Mick",
+    "purchase_location_cat": "Zelfgemaakt",
+    "date": "2026-02-11",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Alliums",
+    "botanical_category": null,
+    "botanical_part": "Stengel / Scheut"
+  },
+  {
+    "name": "Gember",
+    "variety": null,
+    "preparation": "Gefermenteerd",
+    "origin_country": null,
+    "purchase_location": "Mick",
+    "purchase_location_cat": "Zelfgemaakt",
+    "date": "2026-02-11",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Knollen & Wortels",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
   }
 ]
