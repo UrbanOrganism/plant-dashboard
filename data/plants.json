@@ -44,10 +44,10 @@
     "preparation": "Rauw / Vers",
     "origin_country": null,
     "purchase_location": "Pide BKRY",
-    "purchase_location_cat": "Afhaal",
+    "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-01-02",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Slagroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -57,10 +57,10 @@
     "preparation": "Rauw / Vers",
     "origin_country": null,
     "purchase_location": "Pide BKRY",
-    "purchase_location_cat": "Afhaal",
+    "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-01-02",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -70,10 +70,10 @@
     "preparation": "Rauw / Vers",
     "origin_country": null,
     "purchase_location": "Pide BKRY",
-    "purchase_location_cat": "Afhaal",
+    "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-01-02",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Komkommerachtigen",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -83,10 +83,10 @@
     "preparation": "Rauw / Vers",
     "origin_country": null,
     "purchase_location": "Pide BKRY",
-    "purchase_location_cat": "Afhaal",
+    "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-01-02",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Overige vruchtgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -96,10 +96,10 @@
     "preparation": "Ingelegd",
     "origin_country": null,
     "purchase_location": "Pide BKRY",
-    "purchase_location_cat": "Afhaal",
+    "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-01-02",
     "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Pepers / Capsicum",
+    "culinary_subcategory": "Pepers",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -200,7 +200,7 @@
     "preparation": "Gedroogd",
     "origin_country": null,
     "purchase_location": "Niek",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-03",
     "culinary_category": "Peulvruchten",
     "culinary_subcategory": "Erwten",
@@ -213,10 +213,10 @@
     "preparation": "Gekookt",
     "origin_country": "Nederland",
     "purchase_location": "Niek",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-03",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -226,10 +226,10 @@
     "preparation": "Gekookt",
     "origin_country": null,
     "purchase_location": "Niek",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-03",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -239,7 +239,7 @@
     "preparation": "Gekookt",
     "origin_country": null,
     "purchase_location": "Niek",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-03",
     "culinary_category": "Groente",
     "culinary_subcategory": "Alliums",
@@ -252,7 +252,7 @@
     "preparation": "Gekookt",
     "origin_country": "Nederland",
     "purchase_location": "Niek",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-03",
     "culinary_category": "Groente",
     "culinary_subcategory": "Alliums",
@@ -268,7 +268,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-04",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -281,7 +281,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-04",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -294,7 +294,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-04",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -307,7 +307,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-04",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -424,7 +424,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-05",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -437,7 +437,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-06",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -515,7 +515,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-08",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Komkommerachtigen",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -528,7 +528,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-08",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Komkommerachtigen",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -541,7 +541,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-08",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Stengels & Scheuten",
+    "culinary_subcategory": "Aromaten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -554,7 +554,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-08",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -567,7 +567,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-09",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -580,7 +580,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-09",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Paprika’s",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -593,7 +593,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-10",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Slagroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -606,7 +606,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-10",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Overige vruchtgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -632,7 +632,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-10",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Kiemen & Spruiten",
+    "culinary_subcategory": "Kiemgroenten",
     "botanical_category": null,
     "botanical_part": "Kiem / Spruit"
   },
@@ -694,7 +694,7 @@
     "preparation": "Rauw / Vers",
     "origin_country": null,
     "purchase_location": "Mama",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-11",
     "culinary_category": "Fruit",
     "culinary_subcategory": "Citrusfruit",
@@ -710,7 +710,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-11",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -723,7 +723,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-11",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -840,7 +840,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-13",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -853,7 +853,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-13",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Slagroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -889,7 +889,7 @@
     "preparation": "Ingelegd",
     "origin_country": null,
     "purchase_location": "Jurre",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-13",
     "culinary_category": "Fruit",
     "culinary_subcategory": "Citrusfruit",
@@ -918,7 +918,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-01-14",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Stengels & Scheuten",
+    "culinary_subcategory": "Aromaten",
     "botanical_category": null,
     "botanical_part": "Stengel / Scheut"
   },
@@ -931,7 +931,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-01-14",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -944,7 +944,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-01-14",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Kiemen & Spruiten",
+    "culinary_subcategory": "Kiemgroenten",
     "botanical_category": null,
     "botanical_part": "Kiem / Spruit"
   },
@@ -983,7 +983,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-15",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -996,7 +996,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-15",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -1009,7 +1009,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-01-16",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bloemen & Knoppen",
+    "culinary_subcategory": "Overige vruchtgroenten",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -1022,7 +1022,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-16",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -1048,7 +1048,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-16",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bloemen & Knoppen",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -1061,7 +1061,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-16",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bloemen & Knoppen",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -1113,7 +1113,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-17",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Komkommerachtigen",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -1162,10 +1162,10 @@
     "preparation": "Gekookt",
     "origin_country": null,
     "purchase_location": "Jeroen",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-18",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -1175,7 +1175,7 @@
     "preparation": "Rauw / Vers",
     "origin_country": "Marokko",
     "purchase_location": "Jeroen",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-18",
     "culinary_category": "Kruiden & Specerijen",
     "culinary_subcategory": "Kruiden",
@@ -1188,7 +1188,7 @@
     "preparation": "Rauw / Vers",
     "origin_country": null,
     "purchase_location": "Jeroen",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-18",
     "culinary_category": "Fruit",
     "culinary_subcategory": "Citrusfruit",
@@ -1201,10 +1201,10 @@
     "preparation": "Gekookt",
     "origin_country": null,
     "purchase_location": "Jeroen",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-18",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Aromaten",
     "botanical_category": null,
     "botanical_part": "Stengel / Scheut"
   },
@@ -1243,7 +1243,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-01-19",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Paprika’s",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -1256,7 +1256,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-19",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -1282,7 +1282,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-19",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -1321,7 +1321,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-20",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -1334,7 +1334,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-20",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -1347,7 +1347,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-20",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -1360,7 +1360,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-20",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -1373,7 +1373,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-20",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Aromaten",
     "botanical_category": null,
     "botanical_part": "Stengel / Scheut"
   },
@@ -1386,7 +1386,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-20",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -1555,7 +1555,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-22",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Overige vruchtgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -1581,7 +1581,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-22",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Overige vruchtgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -1685,7 +1685,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-23",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -1697,8 +1697,8 @@
     "purchase_location": "Koopman",
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-23",
-    "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Noten",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -1750,7 +1750,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-23",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -1801,8 +1801,8 @@
     "purchase_location": "Koopman",
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-24",
-    "culinary_category": "Peulvruchten",
-    "culinary_subcategory": "Bonen",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Peulgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -1828,7 +1828,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-24",
     "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Pepers / Capsicum",
+    "culinary_subcategory": "Pepers",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -1864,7 +1864,7 @@
     "preparation": "Gekookt",
     "origin_country": null,
     "purchase_location": "Thijs",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-01-27",
     "culinary_category": "Peulvruchten",
     "culinary_subcategory": "Erwten",
@@ -1880,7 +1880,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-28",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Paprika’s",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -1893,7 +1893,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-28",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -2036,7 +2036,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-01",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2049,7 +2049,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-01",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2062,7 +2062,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-01",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2101,7 +2101,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-02",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2127,7 +2127,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-03",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Kiemen & Spruiten",
+    "culinary_subcategory": "Kiemgroenten",
     "botanical_category": null,
     "botanical_part": "Kiem / Spruit"
   },
@@ -2140,7 +2140,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-03",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Kiemen & Spruiten",
+    "culinary_subcategory": "Kiemgroenten",
     "botanical_category": null,
     "botanical_part": "Kiem / Spruit"
   },
@@ -2153,7 +2153,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-03",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Kiemen & Spruiten",
+    "culinary_subcategory": "Kiemgroenten",
     "botanical_category": null,
     "botanical_part": "Kiem / Spruit"
   },
@@ -2218,7 +2218,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-04",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bloemen & Knoppen",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -2244,7 +2244,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-05",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Kiemen & Spruiten",
+    "culinary_subcategory": "Kiemgroenten",
     "botanical_category": null,
     "botanical_part": "Kiem / Spruit"
   },
@@ -2257,7 +2257,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-05",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2270,7 +2270,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-05",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2283,7 +2283,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-05",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Stengels & Scheuten",
+    "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Stengel / Scheut"
   },
@@ -2361,7 +2361,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-06",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Overige vruchtgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -2374,7 +2374,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-06",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2387,7 +2387,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-07",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Slagroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -2400,7 +2400,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-07",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Slagroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -2413,7 +2413,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-07",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Slagroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -2439,7 +2439,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-07",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bloemen & Knoppen",
+    "culinary_subcategory": "Aromaten",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -2465,7 +2465,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-07",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2491,7 +2491,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-07",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2504,7 +2504,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-07",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2543,7 +2543,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-08",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Overige vruchtgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -2553,7 +2553,7 @@
     "preparation": "Gedroogd",
     "origin_country": null,
     "purchase_location": "Jurre",
-    "purchase_location_cat": "Vrienden & Familie",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-02-08",
     "culinary_category": "Kruiden & Specerijen",
     "culinary_subcategory": "Specerijen",
@@ -2569,7 +2569,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-08",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Paprika’s",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -2582,7 +2582,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-08",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Paprika’s",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -2595,7 +2595,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-08",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Paprika’s",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -2660,7 +2660,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-09",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2673,7 +2673,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-09",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bloemen & Knoppen",
+    "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -2683,10 +2683,10 @@
     "preparation": "Rauw / Vers",
     "origin_country": "Nederland",
     "purchase_location": "Mick",
-    "purchase_location_cat": "Zelfgemaakt",
+    "purchase_location_cat": "Zelfgemaakt / Wildpluk",
     "date": "2026-02-10",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Kiemen & Spruiten",
+    "culinary_subcategory": "Kiemgroenten",
     "botanical_category": null,
     "botanical_part": "Kiem / Spruit"
   },
@@ -2696,10 +2696,10 @@
     "preparation": "Gefermenteerd",
     "origin_country": null,
     "purchase_location": "Mick",
-    "purchase_location_cat": "Zelfgemaakt",
+    "purchase_location_cat": "Zelfgemaakt / Wildpluk",
     "date": "2026-02-10",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2712,7 +2712,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-10",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2725,7 +2725,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-10",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2745,7 +2745,7 @@
   {
     "name": "Durumtarwe",
     "variety": null,
-    "preparation": null,
+    "preparation": "Gepoft",
     "origin_country": null,
     "purchase_location": "Albert Heijn",
     "purchase_location_cat": "Supermarkt",
@@ -2774,10 +2774,10 @@
     "preparation": "Rauw / Vers",
     "origin_country": null,
     "purchase_location": "Romeo’s",
-    "purchase_location_cat": "Afhaal",
+    "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-02-11",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Bladgroenten",
+    "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -2787,7 +2787,7 @@
     "preparation": "Gefermenteerd",
     "origin_country": null,
     "purchase_location": "Mick",
-    "purchase_location_cat": "Zelfgemaakt",
+    "purchase_location_cat": "Zelfgemaakt / Wildpluk",
     "date": "2026-02-11",
     "culinary_category": "Groente",
     "culinary_subcategory": "Alliums",
@@ -2800,10 +2800,10 @@
     "preparation": "Gefermenteerd",
     "origin_country": null,
     "purchase_location": "Mick",
-    "purchase_location_cat": "Zelfgemaakt",
+    "purchase_location_cat": "Zelfgemaakt / Wildpluk",
     "date": "2026-02-11",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Knollen & Wortels",
+    "culinary_subcategory": "Aromaten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
   },
@@ -2816,7 +2816,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-11",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Vruchtgroenten",
+    "culinary_subcategory": "Peulgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -2881,7 +2881,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-12",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Stengels & Scheuten",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Stengel / Scheut"
   },
