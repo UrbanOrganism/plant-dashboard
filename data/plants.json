@@ -2913,7 +2913,7 @@
   },
   {
     "name": "Courgette",
-    "variety": "Cousy",
+    "variety": "Cousa",
     "preparation": "Rauw / Vers",
     "origin_country": "Turkije",
     "purchase_location": "Mabrouk",
@@ -2936,5 +2936,31 @@
     "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Appel",
+    "variety": "Kanzi",
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-12",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Boomgaardfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Limoen",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-12",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Citrusfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
