@@ -244,7 +244,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Alliums",
     "botanical_category": null,
-    "botanical_part": "Wortel / Knol"
+    "botanical_part": "Stengel / Scheut"
   },
   {
     "name": "Prei",
@@ -2871,5 +2871,31 @@
     "culinary_subcategory": "Zaden & Pitten",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Koolrabi",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-12",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Stengels & Scheuten",
+    "botanical_category": null,
+    "botanical_part": "Stengel / Scheut"
+  },
+  {
+    "name": "Knoflook",
+    "variety": null,
+    "preparation": "Gefermenteerd",
+    "origin_country": null,
+    "purchase_location": "Mabrouk",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-12",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Alliums",
+    "botanical_category": null,
+    "botanical_part": "Stengel / Scheut"
   }
 ]
