@@ -652,20 +652,20 @@
   {
     "name": "Dadel",
     "variety": "Medjoel",
-    "preparation": "Rauw / Vers",
+    "preparation": "Gedroogd",
     "origin_country": null,
     "purchase_location": "Koopman",
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-01-10",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Overig fruit",
+    "culinary_subcategory": "Steenfruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Kiwi",
     "variety": "Oriental Red",
-    "preparation": "Gedroogd",
+    "preparation": "Rauw / Vers",
     "origin_country": "Italië",
     "purchase_location": "Koopman",
     "purchase_location_cat": "Groentewinkel",
@@ -2906,9 +2906,22 @@
     "purchase_location": "Koopman",
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-02-12",
-    "culinary_category": "Zaden, Pitten & Granen",
-    "culinary_subcategory": "Olievruchten",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Steenfruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Courgette",
+    "variety": "Cousy",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Turkije",
+    "purchase_location": "Mabrouk",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-12",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Komkommerachtigen",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
