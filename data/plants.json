@@ -665,7 +665,7 @@
   {
     "name": "Kiwi",
     "variety": "Oriental Red",
-    "preparation": "Rauw / Vers",
+    "preparation": "Gedroogd",
     "origin_country": "Italië",
     "purchase_location": "Koopman",
     "purchase_location_cat": "Groentewinkel",
@@ -2897,5 +2897,18 @@
     "culinary_subcategory": "Alliums",
     "botanical_category": null,
     "botanical_part": "Stengel / Scheut"
+  },
+  {
+    "name": "Dadel",
+    "variety": "Mazafati",
+    "preparation": "Gedroogd",
+    "origin_country": "Iran",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-12",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Olievruchten",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
