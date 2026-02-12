@@ -2923,5 +2923,18 @@
     "culinary_subcategory": "Komkommerachtigen",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Radijs",
+    "variety": null,
+    "preparation": "Gefermenteerd",
+    "origin_country": null,
+    "purchase_location": "Mick",
+    "purchase_location_cat": "Zelfgemaakt / Wildpluk",
+    "date": "2026-02-12",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige knolgroenten",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
   }
 ]
