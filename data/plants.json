@@ -2975,5 +2975,31 @@
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Aardappel",
+    "variety": "Opperdoezer Ronde",
+    "preparation": "Gekookt",
+    "origin_country": "Nederland",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-14",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Appel",
+    "variety": "Pinova",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-14",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Boomgaardfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
