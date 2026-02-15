@@ -3014,5 +3014,31 @@
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Rode rawit",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-15",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Pepers",
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Groene rawit",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-15",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Pepers",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
