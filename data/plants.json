@@ -3066,5 +3066,31 @@
     "culinary_subcategory": "Peulgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Knolselderij",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-16",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige knolgroenten",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Krielaardappel",
+    "variety": null,
+    "preparation": "Luchtgebakken",
+    "origin_country": "Frankrijk",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-16",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
   }
 ]
