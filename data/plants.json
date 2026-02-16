@@ -3026,7 +3026,7 @@
     "culinary_category": "Kruiden & Specerijen",
     "culinary_subcategory": "Pepers",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Groene rawit",
@@ -3039,6 +3039,32 @@
     "culinary_category": "Kruiden & Specerijen",
     "culinary_subcategory": "Pepers",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Appel",
+    "variety": "Fuji",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-16",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Boomgaardfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Doperwt",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Italië",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-16",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Peulgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
