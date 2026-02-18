@@ -3092,5 +3092,18 @@
     "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Snijboon",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Marokko",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-18",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Peulgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
