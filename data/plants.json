@@ -3118,5 +3118,31 @@
     "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Kailan",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-19",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige bladgroenten",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Ahornsiroop",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Canada",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-19",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": "Schors / Hars / Sap"
   }
 ]
