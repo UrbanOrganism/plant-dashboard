@@ -3156,7 +3156,7 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Kiwibes",
@@ -3169,6 +3169,32 @@
     "culinary_category": "Fruit",
     "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Wilde spinazie",
+    "variety": null,
+    "preparation": "Gestoomd",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-20",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige bladgroenten",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Portobello",
+    "variety": null,
+    "preparation": "Luchtgebakken",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-20",
+    "culinary_category": "Paddenstoelen",
+    "culinary_subcategory": "Paddenstoelen",
+    "botanical_category": null,
+    "botanical_part": "Vruchtlichaam"
   }
 ]
