@@ -3157,5 +3157,18 @@
     "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": null
+  },
+  {
+    "name": "Kiwibes",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Chili",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-20",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen & Druiven",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
