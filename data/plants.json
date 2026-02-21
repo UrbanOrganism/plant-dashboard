@@ -3209,5 +3209,44 @@
     "culinary_subcategory": "Citrusfruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Dillezaad",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Mabrouk",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-21",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Zaden & Pitten",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Wakame",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": "Japan",
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-21",
+    "culinary_category": "Zeewieren & Algen",
+    "culinary_subcategory": "Zeewieren & Algen",
+    "botanical_category": null,
+    "botanical_part": "Alg / Wier"
+  },
+  {
+    "name": "Eddo",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-21",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
   }
 ]
