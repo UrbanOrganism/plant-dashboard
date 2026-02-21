@@ -3196,5 +3196,18 @@
     "culinary_subcategory": "Paddenstoelen",
     "botanical_category": null,
     "botanical_part": "Vruchtlichaam"
+  },
+  {
+    "name": "Rode pomelo",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Volksrepubliek China",
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-21",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Citrusfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
