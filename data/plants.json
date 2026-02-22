@@ -3326,5 +3326,18 @@
     "culinary_subcategory": "Tropisch fruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Chilipeper",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "De Zoete Inval",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-02-22",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Pepers",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
