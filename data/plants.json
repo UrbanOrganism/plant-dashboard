@@ -3339,5 +3339,44 @@
     "culinary_subcategory": "Pepers",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Amsoi",
+    "variety": null,
+    "preparation": "Gestoomd",
+    "origin_country": null,
+    "purchase_location": "Anton de Komplein Markt",
+    "purchase_location_cat": null,
+    "date": "2026-02-23",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige bladgroenten",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Bananenbloesem",
+    "variety": null,
+    "preparation": "Gestoomd",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-23",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Nori",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-02-23",
+    "culinary_category": "Zeewieren & Algen",
+    "culinary_subcategory": "Zeewieren & Algen",
+    "botanical_category": null,
+    "botanical_part": "Alg / Wier"
   }
 ]
