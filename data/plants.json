@@ -3443,5 +3443,18 @@
     "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Antroewa",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Anton de Komplein Markt",
+    "purchase_location_cat": "Markt",
+    "date": "2026-02-24",
+    "culinary_category": "Groente",
+    "culinary_subcategory": null,
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
