@@ -3453,8 +3453,21 @@
     "purchase_location_cat": "Markt",
     "date": "2026-02-24",
     "culinary_category": "Groente",
-    "culinary_subcategory": null,
+    "culinary_subcategory": "Overige vruchtgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Rode adjuma",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Anton de Komplein Markt",
+    "purchase_location_cat": "Markt",
+    "date": "2026-02-24",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Pepers",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
