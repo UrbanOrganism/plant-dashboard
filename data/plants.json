@@ -3482,5 +3482,57 @@
     "culinary_subcategory": "Overige vruchtgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Galanga",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-25",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Aromaten",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Groene linze",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-25",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Linzen",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Citroengras",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Thailand",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-25",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Aromaten",
+    "botanical_category": null,
+    "botanical_part": "Stengel / Scheut"
+  },
+  {
+    "name": "Watermeloen",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-25",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Overig fruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
