@@ -3469,5 +3469,18 @@
     "culinary_subcategory": "Pepers",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Tomaat",
+    "variety": "Roma",
+    "preparation": "Gekookt",
+    "origin_country": "Tunesië",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-24",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
