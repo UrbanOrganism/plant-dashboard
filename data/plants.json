@@ -3547,5 +3547,31 @@
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Witte boon",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Mama",
+    "purchase_location_cat": "Vrienden / Familie",
+    "date": "2026-02-26",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Bonen",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Mosterdkers",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Mick",
+    "purchase_location_cat": "Zelfgemaakt / Wildpluk",
+    "date": "2026-02-26",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Kiemgroenten",
+    "botanical_category": null,
+    "botanical_part": "Kiem / Spruit"
   }
 ]
