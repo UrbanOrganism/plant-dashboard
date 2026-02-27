@@ -3638,5 +3638,18 @@
     "culinary_subcategory": "Pepers",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Kiwi",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-02-27",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Overig fruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
