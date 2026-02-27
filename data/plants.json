@@ -1399,7 +1399,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-21",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Bonen",
+    "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -1412,7 +1412,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-21",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Bonen",
+    "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -1425,7 +1425,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-21",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Bonen",
+    "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -1620,7 +1620,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-23",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Bonen",
+    "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -1633,7 +1633,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-23",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Bonen",
+    "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -1646,7 +1646,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-23",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Bonen",
+    "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -1659,7 +1659,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-23",
     "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Bonen",
+    "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -3573,5 +3573,70 @@
     "culinary_subcategory": "Kiemgroenten",
     "botanical_category": null,
     "botanical_part": "Kiem / Spruit"
+  },
+  {
+    "name": "Koffie",
+    "variety": "SL28",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Kenia",
+    "purchase_location": "Jurre",
+    "purchase_location_cat": "Vrienden / Familie",
+    "date": "2026-02-27",
+    "culinary_category": "Drugfoods",
+    "culinary_subcategory": "Koffie",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Koffie",
+    "variety": "K7",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Kenia",
+    "purchase_location": "Jurre",
+    "purchase_location_cat": "Vrienden / Familie",
+    "date": "2026-02-27",
+    "culinary_category": "Drugfoods",
+    "culinary_subcategory": "Koffie",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Koffie",
+    "variety": "Ruiru 11",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Kenia",
+    "purchase_location": "Jurre",
+    "purchase_location_cat": "Vrienden / Familie",
+    "date": "2026-02-27",
+    "culinary_category": "Drugfoods",
+    "culinary_subcategory": "Koffie",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Koffie",
+    "variety": "Batian",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Kenia",
+    "purchase_location": "Jurre",
+    "purchase_location_cat": "Vrienden / Familie",
+    "date": "2026-02-27",
+    "culinary_category": "Drugfoods",
+    "culinary_subcategory": "Koffie",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Rode jalapeño",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-02-27",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Pepers",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
