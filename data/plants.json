@@ -3651,5 +3651,44 @@
     "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Gele linze",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-03-01",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Linzen",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Tuinerwt",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-03-01",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Peulgroenten",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Druif",
+    "variety": "Muscat Beauty",
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-03-01",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen & Druiven",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
