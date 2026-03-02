@@ -3703,5 +3703,18 @@
     "culinary_subcategory": "Granen",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Bospeen",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Dekamarkt",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-03-02",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Wortelgroenten",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
   }
 ]
