@@ -3716,5 +3716,18 @@
     "culinary_subcategory": "Wortelgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Bleekselderij",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-03-02",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Aromaten",
+    "botanical_category": null,
+    "botanical_part": "Stengel / Scheut"
   }
 ]
