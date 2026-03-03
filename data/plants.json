@@ -3729,5 +3729,31 @@
     "culinary_subcategory": "Aromaten",
     "botanical_category": null,
     "botanical_part": "Stengel / Scheut"
+  },
+  {
+    "name": "Groene asperge",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Mexico",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-03-03",
+    "culinary_category": "Groente",
+    "culinary_subcategory": null,
+    "botanical_category": null,
+    "botanical_part": "Stengel / Scheut"
+  },
+  {
+    "name": "Truffelaardappel",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-03-03",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
   }
 ]
