@@ -3781,5 +3781,31 @@
     "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Aardbei",
+    "variety": "Florida Pearl",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Spanje",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-03-07",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen & Druiven",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Royal cabbage",
+    "variety": null,
+    "preparation": "Gestoomd",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-03-07",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige bladgroenten",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
