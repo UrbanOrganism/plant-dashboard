@@ -3833,5 +3833,31 @@
     "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Kelp",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-03-11",
+    "culinary_category": "Zeewieren & Algen",
+    "culinary_subcategory": "Zeewieren & Algen",
+    "botanical_category": null,
+    "botanical_part": "Alg / Wier"
+  },
+  {
+    "name": "Po choi",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-03-11",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige bladgroenten",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
