@@ -3924,5 +3924,18 @@
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Rucolakers",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Mick",
+    "purchase_location_cat": "Zelfgemaakt / Wildpluk",
+    "date": "2026-03-17",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Kiemgroenten",
+    "botanical_category": null,
+    "botanical_part": "Kiem / Spruit"
   }
 ]
