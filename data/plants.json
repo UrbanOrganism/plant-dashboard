@@ -3950,5 +3950,18 @@
     "culinary_subcategory": "Boomgaardfruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Appel",
+    "variety": "Natyra",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Fruittuin van West",
+    "purchase_location_cat": null,
+    "date": "2026-03-18",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Boomgaardfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
