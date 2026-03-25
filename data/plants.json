@@ -4099,38 +4099,51 @@
     "variety": null,
     "preparation": "Gekookt",
     "origin_country": null,
-    "purchase_location": null,
-    "purchase_location_cat": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
     "date": "2026-03-25",
-    "culinary_category": null,
-    "culinary_subcategory": null,
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Pseudogranen",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Rode quinoa",
     "variety": null,
     "preparation": "Gekookt",
     "origin_country": null,
-    "purchase_location": null,
-    "purchase_location_cat": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
     "date": "2026-03-25",
-    "culinary_category": null,
-    "culinary_subcategory": null,
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Pseudogranen",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Zwarte quinoa",
     "variety": null,
     "preparation": "Gekookt",
     "origin_country": null,
-    "purchase_location": null,
-    "purchase_location_cat": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
     "date": "2026-03-25",
-    "culinary_category": null,
-    "culinary_subcategory": null,
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Pseudogranen",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Granaatappel",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-03-25",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Overig fruit",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
   }
 ]
