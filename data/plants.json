@@ -4054,5 +4054,18 @@
     "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Witte asperge",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Nederland",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-03-25",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige groenten",
+    "botanical_category": null,
+    "botanical_part": "Stengel / Scheut"
   }
 ]
