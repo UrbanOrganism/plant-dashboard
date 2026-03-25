@@ -4067,5 +4067,70 @@
     "culinary_subcategory": "Overige groenten",
     "botanical_category": null,
     "botanical_part": "Stengel / Scheut"
+  },
+  {
+    "name": "Cranberry",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-03-25",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen & Druiven",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Physalis",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-03-25",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen & Druiven",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Witte quinoa",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": null,
+    "purchase_location_cat": null,
+    "date": "2026-03-25",
+    "culinary_category": null,
+    "culinary_subcategory": null,
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Rode quinoa",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": null,
+    "purchase_location_cat": null,
+    "date": "2026-03-25",
+    "culinary_category": null,
+    "culinary_subcategory": null,
+    "botanical_category": null,
+    "botanical_part": null
+  },
+  {
+    "name": "Zwarte quinoa",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": null,
+    "purchase_location_cat": null,
+    "date": "2026-03-25",
+    "culinary_category": null,
+    "culinary_subcategory": null,
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
