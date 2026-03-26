@@ -4145,5 +4145,31 @@
     "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Wilde bamboe",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-03-26",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige groenten",
+    "botanical_category": null,
+    "botanical_part": "Stengel / Scheut"
+  },
+  {
+    "name": "Okra",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Sahan",
+    "purchase_location_cat": "Toko",
+    "date": "2026-03-26",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
