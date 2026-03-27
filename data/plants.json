@@ -4193,9 +4193,9 @@
     "purchase_location": "Mama",
     "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-03-27",
-    "culinary_category": null,
-    "culinary_subcategory": null,
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Bonen",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Vrucht / Peul"
   }
 ]
