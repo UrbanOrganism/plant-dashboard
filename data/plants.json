@@ -4209,6 +4209,19 @@
     "culinary_category": "Kruiden & Specerijen",
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Dragon",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "L'esquina Cantina",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-03-28",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
