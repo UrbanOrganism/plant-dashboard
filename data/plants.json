@@ -4236,5 +4236,18 @@
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Bruine linze",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-03-30",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Linzen",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
   }
 ]
