@@ -4301,5 +4301,18 @@
     "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Savooiekool",
+    "variety": null,
+    "preparation": "Gestoomd",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-04-05",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Koolgroenten",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
