@@ -4366,5 +4366,31 @@
     "culinary_subcategory": "Steenfruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Graffiti aubergine",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-04-09",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Gele courgette",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-04-09",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Komkommerachtigen",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
