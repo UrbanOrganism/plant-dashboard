@@ -4431,5 +4431,18 @@
     "culinary_subcategory": "Noten",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Basilicumzaad",
+    "variety": null,
+    "preparation": "Geweekt",
+    "origin_country": null,
+    "purchase_location": "Evans & Watson",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-04-14",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Zaden & Pitten",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
   }
 ]
