@@ -4444,5 +4444,31 @@
     "culinary_subcategory": "Zaden & Pitten",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Chinese aubergine",
+    "variety": null,
+    "preparation": "Luchtgebakken",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-04-16",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Groene mango",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-04-16",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Tropisch fruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
