@@ -4474,14 +4474,14 @@
   {
     "name": "Daslook",
     "variety": null,
-    "preparation": null,
+    "preparation": "Rauw / Vers",
     "origin_country": null,
-    "purchase_location": null,
-    "purchase_location_cat": null,
+    "purchase_location": "Mama",
+    "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-04-17",
-    "culinary_category": null,
-    "culinary_subcategory": null,
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Alliums",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Blad(steel)"
   }
 ]
