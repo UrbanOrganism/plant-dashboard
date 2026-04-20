@@ -4483,5 +4483,44 @@
     "culinary_subcategory": "Alliums",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Aardbei",
+    "variety": "Karima",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-04-20",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Bessen & Druiven",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Zoethout",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Evans & Watson",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-04-20",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": "Schors / Hars / Sap"
+  },
+  {
+    "name": "Saffloembloesem",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Evans & Watson",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-04-20",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
   }
 ]
