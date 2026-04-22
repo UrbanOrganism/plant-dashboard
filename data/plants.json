@@ -4548,5 +4548,44 @@
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Gele tomaat",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Marokko",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-04-22",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Oranje tomaat",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Marokko",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-04-22",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Botersla",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": "Nederland",
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-04-22",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Slagroenten",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
