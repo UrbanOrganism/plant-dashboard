@@ -4587,5 +4587,18 @@
     "culinary_subcategory": "Slagroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Dadel",
+    "variety": "Bahri",
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-04-24",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Steenfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
