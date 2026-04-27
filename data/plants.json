@@ -4639,5 +4639,31 @@
     "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Hop",
+    "variety": "Nelson Sauvin",
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Sterk",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-04-27",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Hop",
+    "variety": "Motueka",
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Sterk",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-04-27",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
   }
 ]
