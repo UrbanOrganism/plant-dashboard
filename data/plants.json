@@ -4665,5 +4665,83 @@
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Mesona",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Wing Kee",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-04-28",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Frangipani",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Wing Kee",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-04-28",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Microcos Paniculata",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Wing Kee",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-04-28",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Chrysant",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Wing Kee",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-04-28",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Japanse kamperfoelie",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Wing Kee",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-04-28",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Gewone brunel",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Wing Kee",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-04-28",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
   }
 ]
