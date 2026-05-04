@@ -4886,5 +4886,18 @@
     "culinary_subcategory": "Peulgroenten",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Tonkaboon",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Sterk",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-04",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Peulgroenten",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
   }
 ]
