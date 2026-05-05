@@ -4912,5 +4912,18 @@
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Tulpenknol",
+    "variety": null,
+    "preparation": "Ingelegd",
+    "origin_country": null,
+    "purchase_location": "Intratuin",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-05",
+    "culinary_category": null,
+    "culinary_subcategory": null,
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
