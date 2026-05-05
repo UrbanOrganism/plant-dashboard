@@ -4511,7 +4511,7 @@
     "botanical_part": "Schors / Hars / Sap"
   },
   {
-    "name": "Saffloembloesem",
+    "name": "Saffloerbloesem",
     "variety": null,
     "preparation": "Geïnfuseerd",
     "origin_country": null,
@@ -4925,5 +4925,31 @@
     "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Koffie",
+    "variety": "Gesha",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Colombia",
+    "purchase_location": "Friedhats FUKU Café",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-05",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Koffie",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Rode pruim",
+    "variety": "Flavor Fall",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Zuid-Afrika",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-05-05",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Steenfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
