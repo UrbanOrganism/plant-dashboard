@@ -4964,5 +4964,18 @@
     "culinary_subcategory": "Citrusfruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Sugarsnap",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": "Egypte",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-05-05",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Peulgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
