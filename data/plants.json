@@ -1398,7 +1398,7 @@
     "purchase_location": "Badeta",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-21",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
@@ -1411,7 +1411,7 @@
     "purchase_location": "Badeta",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-21",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
@@ -1424,7 +1424,7 @@
     "purchase_location": "Badeta",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-21",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
@@ -1619,7 +1619,7 @@
     "purchase_location": "Friedhats FUKU Café",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-23",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
@@ -1632,7 +1632,7 @@
     "purchase_location": "Friedhats FUKU Café",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-23",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
@@ -1645,7 +1645,7 @@
     "purchase_location": "Friedhats FUKU Café",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-23",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
@@ -1658,7 +1658,7 @@
     "purchase_location": "Friedhats FUKU Café",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-23",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
@@ -1671,7 +1671,7 @@
     "purchase_location": "Yunnan Sourcing",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-23",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
@@ -1944,8 +1944,8 @@
     "purchase_location": "Carrefour",
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
-    "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -1957,8 +1957,8 @@
     "purchase_location": "Carrefour",
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
-    "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -1970,8 +1970,8 @@
     "purchase_location": "Carrefour",
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
-    "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -1983,8 +1983,8 @@
     "purchase_location": "Carrefour",
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-29",
-    "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -2009,8 +2009,8 @@
     "purchase_location": "Carrefour",
     "purchase_location_cat": "Supermarkt",
     "date": "2026-01-30",
-    "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -2620,7 +2620,7 @@
     "purchase_location": "Wuyi Origin",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-02-09",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
@@ -3582,10 +3582,10 @@
     "purchase_location": "Jurre",
     "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-02-27",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
-    "botanical_part": "Vrucht / Peul"
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Koffie",
@@ -3595,10 +3595,10 @@
     "purchase_location": "Jurre",
     "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-02-27",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
-    "botanical_part": "Vrucht / Peul"
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Koffie",
@@ -3608,10 +3608,10 @@
     "purchase_location": "Jurre",
     "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-02-27",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
-    "botanical_part": "Vrucht / Peul"
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Koffie",
@@ -3621,10 +3621,10 @@
     "purchase_location": "Jurre",
     "purchase_location_cat": "Vrienden / Familie",
     "date": "2026-02-27",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Koffie",
     "botanical_category": null,
-    "botanical_part": "Vrucht / Peul"
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Rode jalapeño",
@@ -4232,7 +4232,7 @@
     "purchase_location": "Thés du Japon",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-03-30",
-    "culinary_category": "Drugfoods",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
@@ -4258,8 +4258,8 @@
     "purchase_location": "Albert Heijn",
     "purchase_location_cat": "Supermarkt",
     "date": "2026-03-30",
-    "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Thee",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -4544,8 +4544,8 @@
     "purchase_location": "Mountain Stream Teas",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-04-21",
-    "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -4648,8 +4648,8 @@
     "purchase_location": "Sterk",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-04-27",
-    "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -4661,8 +4661,8 @@
     "purchase_location": "Sterk",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-04-27",
-    "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -4674,8 +4674,8 @@
     "purchase_location": "Wing Kee",
     "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-04-28",
-    "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -4687,8 +4687,8 @@
     "purchase_location": "Wing Kee",
     "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-04-28",
-    "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -4700,8 +4700,8 @@
     "purchase_location": "Wing Kee",
     "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-04-28",
-    "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -4713,8 +4713,8 @@
     "purchase_location": "Wing Kee",
     "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-04-28",
-    "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -4726,8 +4726,8 @@
     "purchase_location": "Wing Kee",
     "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-04-28",
-    "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -4739,8 +4739,8 @@
     "purchase_location": "Wing Kee",
     "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-04-28",
-    "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -4908,8 +4908,8 @@
     "purchase_location": "Evans & Watson",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-05-05",
-    "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -4921,9 +4921,9 @@
     "purchase_location": "Intratuin",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-05-05",
-    "culinary_category": null,
-    "culinary_subcategory": null,
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
-    "botanical_part": null
+    "botanical_part": "Wortel / Knol"
   }
 ]
