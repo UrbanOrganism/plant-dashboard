@@ -4977,5 +4977,18 @@
     "culinary_subcategory": "Peulgroenten",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Thee",
+    "variety": "Si Ji Chun",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Taiwan",
+    "purchase_location": "Mountain Stream Teas",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-06",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
