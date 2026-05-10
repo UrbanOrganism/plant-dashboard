@@ -5003,5 +5003,18 @@
     "culinary_subcategory": "Zaden & Pitten",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Griekse bergthee",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Mama",
+    "purchase_location_cat": "Vrienden / Familie",
+    "date": "2026-05-10",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
   }
 ]
