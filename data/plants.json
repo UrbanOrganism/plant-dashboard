@@ -5042,5 +5042,44 @@
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Cassave",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Happy China",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-05-21",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Perzik",
+    "variety": "Paraguayo",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Spanje",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-05-21",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Steenfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Brandnetelzaad",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Evans & Watson",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-21",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
   }
 ]
