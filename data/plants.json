@@ -5081,5 +5081,31 @@
     "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Mariadistelzaad",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Evans & Watson",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-22",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Aardappel",
+    "variety": "Malta",
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-05-22",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Zetmeelrijke knolgroenten",
+    "botanical_category": null,
+    "botanical_part": "Wortel / Knol"
   }
 ]
