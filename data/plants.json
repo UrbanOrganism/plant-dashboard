@@ -5133,5 +5133,18 @@
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Magnolia",
+    "variety": "Witte Champaca",
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Mountain Stream Teas",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-23",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
   }
 ]
