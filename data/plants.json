@@ -5107,5 +5107,18 @@
     "culinary_subcategory": "Zetmeelrijke knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Koffie",
+    "variety": "Typica Mejorado",
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Friedhats FUKU Café",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-23",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Koffie",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
   }
 ]
