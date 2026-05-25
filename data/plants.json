@@ -5185,5 +5185,18 @@
     "culinary_subcategory": "Granen",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Thee",
+    "variety": "Song Zhong",
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Wuyi Origin",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-25",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Thee",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
