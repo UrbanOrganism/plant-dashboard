@@ -5250,5 +5250,44 @@
     "culinary_subcategory": "Zaden & Pitten",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Hibiscus",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Kus van de Cactus",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-05-28",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Huitlacoche",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Kus van de Cactus",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-05-28",
+    "culinary_category": "Paddenstoelen",
+    "culinary_subcategory": "Paddenstoelen",
+    "botanical_category": null,
+    "botanical_part": "Vruchtlichaam"
+  },
+  {
+    "name": "Tomatillo",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Kus van de Cactus",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-05-28",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
