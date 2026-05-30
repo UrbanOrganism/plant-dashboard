@@ -5315,5 +5315,18 @@
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Hop",
+    "variety": "Mosaic",
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Jumbo",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-05-30",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
   }
 ]
