@@ -5302,5 +5302,18 @@
     "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Thee",
+    "variety": "Wilde",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Volksrepubliek China",
+    "purchase_location": "Bitterleaf",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-30",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Thee",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
