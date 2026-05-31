@@ -5341,5 +5341,31 @@
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Meloen",
+    "variety": "Galia",
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Jumbo",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-05-31",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Overig fruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Bakbanaan",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Jumbo",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-05-31",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Tropisch fruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
