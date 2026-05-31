@@ -5328,5 +5328,18 @@
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Thee",
+    "variety": "Gokô",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Japan",
+    "purchase_location": "Thés du Japon",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-05-31",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Thee",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
