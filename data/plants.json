@@ -5406,5 +5406,31 @@
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Pomme de Cythère",
+    "variety": null,
+    "preparation": "Ingelegd",
+    "origin_country": "Suriname",
+    "purchase_location": "Jumbo",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-06-01",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Tropisch fruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Chinese pruim",
+    "variety": null,
+    "preparation": "Ingelegd",
+    "origin_country": "Suriname",
+    "purchase_location": "Jumbo",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-06-01",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Steenfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
