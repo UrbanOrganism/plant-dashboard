@@ -5393,5 +5393,18 @@
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Thee",
+    "variety": "Yamakai",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Japan",
+    "purchase_location": "Thés de Japon",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-01",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Thee",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
