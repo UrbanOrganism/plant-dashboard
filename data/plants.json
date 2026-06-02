@@ -3576,7 +3576,7 @@
   },
   {
     "name": "Koffie",
-    "variety": "SL28",
+    "variety": "SL-28",
     "preparation": "Geïnfuseerd",
     "origin_country": "Kenia",
     "purchase_location": "Jurre",
@@ -3589,7 +3589,7 @@
   },
   {
     "name": "Koffie",
-    "variety": "K7",
+    "variety": "K-7",
     "preparation": "Geïnfuseerd",
     "origin_country": "Kenia",
     "purchase_location": "Jurre",
