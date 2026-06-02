@@ -5484,5 +5484,18 @@
     "culinary_subcategory": "Steenfruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Ferula assa-foetida",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Van der Pigge",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-02",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": "Schors / Hars / Sap"
   }
 ]
