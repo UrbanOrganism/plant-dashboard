@@ -1667,7 +1667,7 @@
     "name": "Thee",
     "variety": "Da Wu Ye",
     "preparation": "Geïnfuseerd",
-    "origin_country": "China",
+    "origin_country": "Volksrepubliek China",
     "purchase_location": "Yunnan Sourcing",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-01-23",
@@ -5638,6 +5638,19 @@
     "date": "2026-06-03",
     "culinary_category": "Kruiden & Specerijen",
     "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Frambozenblad",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Van der Pigge",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-03",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   }
