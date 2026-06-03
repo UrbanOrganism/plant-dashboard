@@ -5562,5 +5562,44 @@
     "culinary_subcategory": "Steenfruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Poblano",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Westlandpeppers",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-03",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Paprika’s",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Paprika",
+    "variety": "Witpunt",
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Westlandpeppers",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-03",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Paprika’s",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Pronker",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "De Peulvruchtenshop",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-03",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Bonen",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
   }
 ]
