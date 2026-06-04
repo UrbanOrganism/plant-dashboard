@@ -5653,5 +5653,18 @@
     "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Meloen",
+    "variety": "Canary",
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-06-04",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Overig fruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
