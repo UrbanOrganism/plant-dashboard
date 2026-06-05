@@ -5679,5 +5679,18 @@
     "culinary_subcategory": "Overige bladgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Witte kool",
+    "variety": null,
+    "preparation": "Gefermenteerd",
+    "origin_country": null,
+    "purchase_location": "Uncommon Bar",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-06-05",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Koolgroenten",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
