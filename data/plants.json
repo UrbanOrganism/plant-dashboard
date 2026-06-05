@@ -2309,7 +2309,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-02-06",
     "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_subcategory": "Specerijen",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -2322,7 +2322,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-02-06",
     "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_subcategory": "Specerijen",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -2335,7 +2335,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-02-06",
     "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_subcategory": "Specerijen",
     "botanical_category": null,
     "botanical_part": "Schors / Hars / Sap"
   },
@@ -2348,7 +2348,7 @@
     "purchase_location_cat": "Toko",
     "date": "2026-02-06",
     "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_subcategory": "Specerijen",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -2763,7 +2763,7 @@
     "purchase_location": "Thés du Japon",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-02-11",
-    "culinary_category": "Kruiden & Specerijen",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
@@ -2971,8 +2971,8 @@
     "purchase_location": "Carrefour",
     "purchase_location_cat": "Supermarkt",
     "date": "2026-02-13",
-    "culinary_category": "Drugfoods",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
@@ -3010,7 +3010,7 @@
     "purchase_location": "Mick",
     "purchase_location_cat": "Zelfgemaakt / Wildpluk",
     "date": "2026-02-14",
-    "culinary_category": "Kruiden & Specerijen",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
@@ -3065,7 +3065,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Peulgroenten",
     "botanical_category": null,
-    "botanical_part": "Vrucht / Peul"
+    "botanical_part": "Zaad / Graan"
   },
   {
     "name": "Knolselderij",
@@ -3218,8 +3218,8 @@
     "purchase_location": "Mabrouk",
     "purchase_location_cat": "Toko",
     "date": "2026-02-21",
-    "culinary_category": "Zaden, Pitten & Granen",
-    "culinary_subcategory": "Zaden & Pitten",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -4337,7 +4337,7 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-04-06",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Overige vruchtgroenten",
+    "culinary_subcategory": "Overige groenten",
     "botanical_category": null,
     "botanical_part": "Stengel / Scheut"
   },
@@ -4753,9 +4753,9 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-04-29",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Overige vruchtgroenten",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
-    "botanical_part": "Vrucht / Peul"
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Paarse radijs",
@@ -4766,9 +4766,9 @@
     "purchase_location_cat": "Supermarkt",
     "date": "2026-04-29",
     "culinary_category": "Groente",
-    "culinary_subcategory": "Overige vruchtgroenten",
+    "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
-    "botanical_part": "Vrucht / Peul"
+    "botanical_part": "Wortel / Knol"
   },
   {
     "name": "Sjalot",
@@ -4869,8 +4869,8 @@
     "purchase_location": "Folkingebrew",
     "purchase_location_cat": "Afhaal / Horeca",
     "date": "2026-05-02",
-    "culinary_category": "Drugfoods & Medicinale kruiden",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -4885,7 +4885,7 @@
     "culinary_category": "Groente",
     "culinary_subcategory": "Peulgroenten",
     "botanical_category": null,
-    "botanical_part": "Zaad / Graan"
+    "botanical_part": "Vrucht / Peul"
   },
   {
     "name": "Tonkaboon",
@@ -4895,8 +4895,8 @@
     "purchase_location": "Sterk",
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-05-04",
-    "culinary_category": "Peulvruchten",
-    "culinary_subcategory": "Peulgroenten",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
   },
@@ -4987,7 +4987,7 @@
     "purchase_location_cat": "Speciaalzaak",
     "date": "2026-05-06",
     "culinary_category": "Drugfoods & Medicinale kruiden",
-    "culinary_subcategory": "Medicinale kruiden",
+    "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
   },
@@ -5324,8 +5324,8 @@
     "purchase_location": "Jumbo",
     "purchase_location_cat": "Supermarkt",
     "date": "2026-05-30",
-    "culinary_category": "Kruiden & Specerijen",
-    "culinary_subcategory": "Kruiden",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
   },
