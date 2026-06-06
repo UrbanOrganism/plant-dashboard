@@ -4792,7 +4792,7 @@
     "purchase_location_cat": "Groentewinkel",
     "date": "2026-05-02",
     "culinary_category": "Fruit",
-    "culinary_subcategory": "Tropisch fruit",
+    "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
   },
@@ -5692,5 +5692,18 @@
     "culinary_subcategory": "Koolgroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Kers",
+    "variety": "Rainier",
+    "preparation": "Rauw / Vers",
+    "origin_country": "Spanje",
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-06-06",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Steenfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
