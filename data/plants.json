@@ -5718,5 +5718,18 @@
     "culinary_subcategory": "Slagroenten",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Peper",
+    "variety": "Madame Jeanette",
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Mama",
+    "purchase_location_cat": "Vrienden / Familie",
+    "date": "2026-06-07",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Pepers",
+    "botanical_category": null,
+    "botanical_part": null
   }
 ]
