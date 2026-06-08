@@ -5848,5 +5848,18 @@
     "culinary_subcategory": "Paprika’s",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Peper",
+    "variety": "Shishito",
+    "preparation": "Luchtgebakken",
+    "origin_country": null,
+    "purchase_location": "Westlandpeppers",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-08",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Paprika’s",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
