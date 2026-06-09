@@ -5861,5 +5861,18 @@
     "culinary_subcategory": "Paprika’s",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Zwart sesamzaad",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Jurre",
+    "purchase_location_cat": "Vrienden / Familie",
+    "date": "2026-06-09",
+    "culinary_category": "Zaden, Pitten & Granen",
+    "culinary_subcategory": "Zaden & Pitten",
+    "botanical_category": null,
+    "botanical_part": "Zaad / Graan"
   }
 ]
