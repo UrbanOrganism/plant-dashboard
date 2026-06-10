@@ -5874,5 +5874,31 @@
     "culinary_subcategory": "Zaden & Pitten",
     "botanical_category": null,
     "botanical_part": "Zaad / Graan"
+  },
+  {
+    "name": "Judasoor",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-06-10",
+    "culinary_category": "Paddenstoelen",
+    "culinary_subcategory": "Paddenstoelen",
+    "botanical_category": null,
+    "botanical_part": "Vruchtlichaam"
+  },
+  {
+    "name": "Bruine boleet",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Albert Heijn",
+    "purchase_location_cat": "Supermarkt",
+    "date": "2026-06-10",
+    "culinary_category": "Paddenstoelen",
+    "culinary_subcategory": "Paddenstoelen",
+    "botanical_category": null,
+    "botanical_part": "Vruchtlichaam"
   }
 ]
