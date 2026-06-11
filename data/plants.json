@@ -5900,5 +5900,18 @@
     "culinary_subcategory": "Paddenstoelen",
     "botanical_category": null,
     "botanical_part": "Vruchtlichaam"
+  },
+  {
+    "name": "Malva",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Van der Pigge",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-11",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
   }
 ]
