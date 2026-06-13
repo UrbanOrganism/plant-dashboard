@@ -5952,5 +5952,18 @@
     "culinary_subcategory": "Paddenstoelen",
     "botanical_category": null,
     "botanical_part": "Vruchtlichaam"
+  },
+  {
+    "name": "Kapperappel",
+    "variety": null,
+    "preparation": "Gebakken",
+    "origin_country": null,
+    "purchase_location": "Numero Zero",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-06-13",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige vruchtgroenten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
