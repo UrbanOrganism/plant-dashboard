@@ -5991,5 +5991,31 @@
     "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Lavendel",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Patoche",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-06-14",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Kittelbloem",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Patoche",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-06-14",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Bloem / Knop"
   }
 ]
