@@ -6017,5 +6017,31 @@
     "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Mirakelbes",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Balthazar",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-06-14",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Poivre de Kampot",
+    "variety": null,
+    "preparation": "Gedroogd",
+    "origin_country": null,
+    "purchase_location": "Balthazar",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-06-14",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Specerijen",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
