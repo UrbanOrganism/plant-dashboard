@@ -6108,5 +6108,18 @@
     "culinary_subcategory": "Pepers",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Weegbree",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Van der Pigge",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-17",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
