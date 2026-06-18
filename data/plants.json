@@ -6121,5 +6121,31 @@
     "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Clementine",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-06-18",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Citrusfruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Olijf",
+    "variety": "Lucques Vertes",
+    "preparation": "Ingelegd",
+    "origin_country": null,
+    "purchase_location": "Olives & More",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-18",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Olievruchten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
