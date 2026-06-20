@@ -6186,5 +6186,18 @@
     "culinary_subcategory": "Zilte groenten",
     "botanical_category": null,
     "botanical_part": "Stengel / Scheut"
+  },
+  {
+    "name": "Olijf",
+    "variety": "Taggiasca",
+    "preparation": "Ingelegd",
+    "origin_country": "Italië",
+    "purchase_location": "Olives & More",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-20",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Olievruchten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
