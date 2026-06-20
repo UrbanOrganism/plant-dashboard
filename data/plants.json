@@ -6173,5 +6173,18 @@
     "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Zeekraal",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Bruiloft Kiki & Thijs",
+    "purchase_location_cat": "Vrienden / Familie",
+    "date": "2026-06-20",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Zilte groenten",
+    "botanical_category": null,
+    "botanical_part": "Stengel / Scheut"
   }
 ]
