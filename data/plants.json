@@ -6238,5 +6238,44 @@
     "culinary_subcategory": "Overige knolgroenten",
     "botanical_category": null,
     "botanical_part": "Wortel / Knol"
+  },
+  {
+    "name": "Banaan",
+    "variety": "Red Dacca",
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-06-20",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Tropisch fruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Mango",
+    "variety": "Chaunsa",
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-06-20",
+    "culinary_category": "Fruit",
+    "culinary_subcategory": "Tropisch fruit",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Ogentroost",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Van der Pigge",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-20",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
