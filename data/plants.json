@@ -6342,5 +6342,18 @@
     "culinary_subcategory": "Kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Cat’s Claw",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Van der Pigge",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-21",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Medicinale kruiden",
+    "botanical_category": null,
+    "botanical_part": "Schors / Hars / Sap"
   }
 ]
