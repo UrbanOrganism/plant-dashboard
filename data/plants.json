@@ -6381,5 +6381,18 @@
     "culinary_subcategory": "Overig fruit",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "IJslands mos",
+    "variety": null,
+    "preparation": "Geïnfuseerd",
+    "origin_country": null,
+    "purchase_location": "Van der Pigge",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-21",
+    "culinary_category": "Zeewieren & Algen",
+    "culinary_subcategory": "Zeewieren & Algen",
+    "botanical_category": null,
+    "botanical_part": "Vruchtlichaam"
   }
 ]
