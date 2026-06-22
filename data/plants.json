@@ -6394,5 +6394,18 @@
     "culinary_subcategory": "Zeewieren & Algen",
     "botanical_category": null,
     "botanical_part": "Vruchtlichaam"
+  },
+  {
+    "name": "Thee",
+    "variety": "Ya Shi Xiang",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Volksrepubliek China",
+    "purchase_location": "Yunnan Sourcing",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-22",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Thee",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
