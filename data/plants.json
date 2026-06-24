@@ -6472,5 +6472,18 @@
     "culinary_subcategory": "Thee",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Bamboespruit",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Amazing Oriental",
+    "purchase_location_cat": "Toko",
+    "date": "2026-06-24",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige groenten",
+    "botanical_category": null,
+    "botanical_part": "Kiem / Spruit"
   }
 ]
