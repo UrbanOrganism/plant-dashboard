@@ -6459,5 +6459,18 @@
     "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Thee",
+    "variety": "Ye Sheng Assamica",
+    "preparation": "Geïnfuseerd",
+    "origin_country": "Volksrepubliek China",
+    "purchase_location": "Yunnan Sourcing",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-24",
+    "culinary_category": "Drugfoods & Medicinale kruiden",
+    "culinary_subcategory": "Thee",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
