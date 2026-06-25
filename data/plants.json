@@ -6485,5 +6485,70 @@
     "culinary_subcategory": "Overige groenten",
     "botanical_category": null,
     "botanical_part": "Kiem / Spruit"
+  },
+  {
+    "name": "Kervel",
+    "variety": null,
+    "preparation": "Rauw / Vers",
+    "origin_country": null,
+    "purchase_location": "Koopman",
+    "purchase_location_cat": "Groentewinkel",
+    "date": "2026-06-25",
+    "culinary_category": "Kruiden & Specerijen",
+    "culinary_subcategory": "Kruiden",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Olijf",
+    "variety": "Bella di Cerignola",
+    "preparation": "Ingelegd",
+    "origin_country": "Italië",
+    "purchase_location": "Olives & More",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-25",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Olievruchten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Olijf",
+    "variety": "Peranzana",
+    "preparation": "Ingelegd",
+    "origin_country": "Italië",
+    "purchase_location": "Olives & More",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-25",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Olievruchten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Olijf",
+    "variety": "Termite",
+    "preparation": "Ingelegd",
+    "origin_country": "Italië",
+    "purchase_location": "Olives & More",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-25",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Olievruchten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Olijf",
+    "variety": "Leccina",
+    "preparation": "Ingelegd",
+    "origin_country": "Italië",
+    "purchase_location": "Olives & More",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-25",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Olievruchten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
