@@ -6563,5 +6563,31 @@
     "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Blad(steel)"
+  },
+  {
+    "name": "Beluga linze",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "V R R",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-06-27",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Linzen",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Krombekboon",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": "Nederland",
+    "purchase_location": "V R R",
+    "purchase_location_cat": "Afhaal / Horeca",
+    "date": "2026-06-27",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Bonen",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
