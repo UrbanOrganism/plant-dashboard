@@ -6615,5 +6615,18 @@
     "culinary_subcategory": "Medicinale kruiden",
     "botanical_category": null,
     "botanical_part": "Bloem / Knop"
+  },
+  {
+    "name": "Olijf",
+    "variety": "Nocellara",
+    "preparation": "Ingelegd",
+    "origin_country": "Italië",
+    "purchase_location": "Olives & More",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-28",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Olievruchten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
