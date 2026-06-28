@@ -6589,5 +6589,18 @@
     "culinary_subcategory": "Bonen",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Wijnblad",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "Sahan",
+    "purchase_location_cat": "Toko",
+    "date": "2026-06-28",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Overige bladgroenten",
+    "botanical_category": null,
+    "botanical_part": "Blad(steel)"
   }
 ]
