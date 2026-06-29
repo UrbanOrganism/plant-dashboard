@@ -6654,5 +6654,18 @@
     "culinary_subcategory": "Bonen",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Olijf",
+    "variety": "Chalkidiki",
+    "preparation": "Ingelegd",
+    "origin_country": "Griekenland",
+    "purchase_location": "Olives & More",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-29",
+    "culinary_category": "Groente",
+    "culinary_subcategory": "Olievruchten",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
