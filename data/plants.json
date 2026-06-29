@@ -6641,5 +6641,18 @@
     "culinary_subcategory": "Bessen & Druiven",
     "botanical_category": null,
     "botanical_part": "Vrucht / Peul"
+  },
+  {
+    "name": "Zwarte ogen boon",
+    "variety": null,
+    "preparation": "Gekookt",
+    "origin_country": null,
+    "purchase_location": "De Peulvruchtenshop",
+    "purchase_location_cat": "Speciaalzaak",
+    "date": "2026-06-29",
+    "culinary_category": "Peulvruchten",
+    "culinary_subcategory": "Bonen",
+    "botanical_category": null,
+    "botanical_part": "Vrucht / Peul"
   }
 ]
